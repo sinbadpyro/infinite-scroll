@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.contain {
+    background-image: url("https://picsum.photos/1920/1080"); 
+    background-color: #cccccc;
+    background-position-x: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+}
